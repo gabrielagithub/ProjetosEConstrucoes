@@ -1,0 +1,6 @@
+@HD7.Construcoes.API_HostAddress = http://localhost:5167
+
+GET {{HD7.Construcoes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
